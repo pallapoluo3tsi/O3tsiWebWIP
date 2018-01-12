@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="160px" height="160px" viewBox="0 0 160 160" enable-background="new 0 0 160 160" xml:space="preserve">
+<circle fill="#FFFFFF" cx="79.89" cy="80.25" r="79.75"/>
+<path fill="#FBFDFE" d="M6.45,111.5C18.681,140.02,47.004,160,80,160c32.997,0,61.32-19.98,73.551-48.5H6.45z"/>
+<rect x="7.001" y="110.641" fill="#EBF6FA" width="146" height="1"/>
+<path fill="#C42126" d="M84.639,71.887"/>
+<path fill="#77C3DE" d="M80,1c43.561,0,79,35.439,79,79c0,43.561-35.439,79-79,79c-43.561,0-79-35.439-79-79C1,36.439,36.439,1,80,1
+	 M80,0C35.818,0,0,35.817,0,80c0,44.184,35.818,80,80,80c44.184,0,80-35.816,80-80C160,35.817,124.184,0,80,0L80,0z"/>
+<g>
+	<g>
+		
+			<rect x="45.724" y="97.768" transform="matrix(0.8798 0.4754 -0.4754 0.8798 59.6208 -8.5412)" fill="#263758" width="1.943" height="31.649"/>
+		
+			<rect x="110.894" y="97.768" transform="matrix(-0.8797 0.4755 -0.4755 -0.8797 264.2902 160.3236)" fill="#263758" width="1.943" height="31.649"/>
+	</g>
+	<rect x="31.5" y="38.5" fill="#263758" width="96" height="79"/>
+	<rect x="34.5" y="41.5" fill="#FFFFFF" width="90" height="73"/>
+	
+		<rect x="74.755" y="61.689" transform="matrix(0.4553 -0.8903 0.8903 0.4553 -25.7002 108.3726)" fill="#263758" width="1.941" height="27.005"/>
+	
+		<rect x="56.831" y="66.622" transform="matrix(0.8797 0.4755 -0.4755 0.8797 46.1601 -17.5684)" fill="#263758" width="1.943" height="31.648"/>
+	
+		<rect x="96.336" y="53.965" transform="matrix(0.6925 0.7214 -0.7214 0.6925 80.2673 -48.7395)" fill="#263758" width="1.943" height="31.647"/>
+	<rect x="48.052" y="91.211" fill="#263758" width="6.958" height="6.959"/>
+	<rect x="61.103" y="65.338" fill="#263758" width="6.958" height="6.958"/>
+	<rect x="83.522" y="77.302" fill="#263758" width="6.959" height="6.958"/>
+	<rect x="103.465" y="57.422" fill="#D30C18" width="6.959" height="6.958"/>
+	<path fill="#D30C18" d="M87.002,71.445c-5.155,0-9.335,4.18-9.335,9.336c0,5.157,4.18,9.336,9.335,9.336s9.336-4.179,9.336-9.336
+		C96.338,75.625,92.157,71.445,87.002,71.445z M87.002,89.011c-4.545,0-8.23-3.685-8.23-8.229c0-4.545,3.685-8.23,8.23-8.23
+		c4.546,0,8.23,3.685,8.23,8.23C95.232,85.326,91.548,89.011,87.002,89.011z"/>
+</g>
+</svg>
